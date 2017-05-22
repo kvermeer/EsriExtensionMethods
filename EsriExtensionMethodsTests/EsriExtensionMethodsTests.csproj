@@ -75,6 +75,7 @@
     <Compile Include="IFeatureClassExtensionMethodsTests.cs" />
     <Compile Include="IRowExtensionMethodsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestMethods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
